@@ -21,7 +21,7 @@ Desain UI lengkap yang digunakan di aplikasi.
 
 ## 5. UX (User Experience) Video Prototype
 Video prototype aplikasi (klik link di bawah):
-👉 https://drive.google.com/xxxxxxxxxxxx
+👉 https://drive.google.com/file/d/1hLwmaeanJYLhp3A1D9vqKGNAvXuYljP4/view?usp=drive_link
 
 ---
 
@@ -33,7 +33,7 @@ File PDF lengkap berisi seluruh dokumentasi UI/UX:
 
 ## 📆 ClickUp Timeline (Gantt Chart)
 Link pengerjaan timeline pada ClickUp:
-👉 https://app.clickup.com/xxxxxxxxxxxx
+👉 https://sharing.clickup.com/90181813744/l/h/2kzm2hfg-538/10bb8a9146f74db
 
 ---
 
